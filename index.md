@@ -8,3 +8,7 @@
 ``` javascript
 let text = "hello,World!";
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
